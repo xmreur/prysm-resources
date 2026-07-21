@@ -2,5 +2,6 @@
   "macos/tor": "c163e0674f8161eea0e766887ca60a8e917bb9ddf12cb4113dc606205debc7f2",
   "macos/libevent-2.1.7.dylib": "5b1c722cb3ab160c0781753bff438d9992deaec2574773608be66bd58ba90042",
   "macos/libssl.3.dylib": "8f6eb8b719b92e6392b072aa2892e640a9c2cabf3d3c261a1c54ca078b361d81",
-  "macos/libcrypto.3.dylib": "fa571a48178d1fe3a573162230a2562c6ec61d94bf5ca06182af40ad79057cd5"
+  "macos/libcrypto.3.dylib": "fa571a48178d1fe3a573162230a2562c6ec61d94bf5ca06182af40ad79057cd5",
+  "macos/libopus.dylib": "435581a316f3dd41982f3101caa6be6ec974572e31765cd0e29c7cbe30198609"
 }
